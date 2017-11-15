@@ -1,0 +1,19 @@
+{
+  "name": "koa_rest_feed",
+  "version": "1.0.0",
+  "description": "a feed project for koa, mongodb rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["koa", "rest", "api", "feed", "project"],
+  "author": "Jason-Bai",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-morgan": "^1.0.1",
+    "koa-router": "^7.3.0",
+    "mongoose": "^4.13.2"
+  }
+}
